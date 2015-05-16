@@ -1,0 +1,7 @@
+westergaard_species.py
+
+**/.ipynb_checkpoints/**
+*.pyc
+*.egg-info/**
+dist/**
+build/**
