@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='westergaard_species',
-      version='0.1',
+      version='0.2',
       description=("Utilities typeset Westergaard's Species "
                    "Counterpoint analysis"),
       url='https://github.com/cryptonomicon314/westergaard-species.git',
