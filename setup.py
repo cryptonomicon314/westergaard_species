@@ -10,6 +10,7 @@ setup(name='westergaard_species',
       license='MIT',
       packages=['westergaard_species'],
       install_requires=[
+          'abjad',
           'PyYAML',
           'iabjad'
       ],
